@@ -27,7 +27,7 @@ public class diamondClass {
 
         // make the rules for mark the *
 
-            
+
             // 打印n行
             for(int i=0;i<h;i++){
                 //每一行的开头先打印“1”
